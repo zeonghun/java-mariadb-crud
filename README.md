@@ -1,4 +1,4 @@
-# java-mariadb-crud
+# Java-Mariadb-CRUD
 
 # Read
 ![image](https://user-images.githubusercontent.com/115923975/225519679-cad1e38e-ef33-4e6a-9c56-4e624b654512.png)
